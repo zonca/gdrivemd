@@ -1,6 +1,6 @@
 # gdrivemd Skill
 
-A Gemini CLI skill to keep a Google Doc and a Markdown file in a GitHub repository synchronized using the `gog` CLI.
+A set of scripts (usable as a Gemini CLI skill or by any terminal-based AI agent) to keep a Google Doc and a Markdown file in a GitHub repository synchronized using the `gog` CLI.
 
 ## Workflows
 
